@@ -1,0 +1,8 @@
+[package]
+name = "red"
+version = "0.1.0"
+authors = ["Sam Johnson <sjohnson540@gmail.com>"]
+
+[dependencies]
+
+termion = "1.0"
