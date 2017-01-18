@@ -1,0 +1,6 @@
+* Realtime Editor Todo List
+
+** TODO Read characters and display them to the screen.
+   - quit on (:q)
+
+** TODO Move editor to struct and functions to impl
